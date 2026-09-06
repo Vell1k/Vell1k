@@ -1,4 +1,4 @@
-<img src="https://github.com/vell1k/Vell1k/blob/main/assets/your-file.gif" width="500" alt="Header" />
+![Header](https://github.com/Vell1k/Vell1k/blob/main/assets/_.gif)
 
 I'm a second-year student at CIPU. I'm proficient in Python and C++. I plan to become a full-stack developer, so I'm also improving my HTML and CSS skills. I use VS code as my development environment.
 
