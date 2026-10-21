@@ -1,117 +1,106 @@
 <!--
-  ШАБЛОН GITHUB-ПРОФИЛЯ
+  ШАБЛОН GITHUB-ПРОФИЛЯ: тёмно-красная тема, угловой баннер
   1. Замените USERNAME на свой ник на GitHub (Ctrl+H → заменить всё).
-  2. Основной цвет: a855f7 (фиолетовый). Замените на другой hex, и вся тема перекрасится.
-  3. Репозиторий должен называться точно так же, как ваш ник: USERNAME/USERNAME.
+  2. Акцентный цвет: c1121f. Тёмный оттенок: 3a0508. Меняются заменой по всему файлу.
+  3. Репозиторий должен называться так же, как ник: USERNAME/USERNAME.
+  4. Перед загрузкой переименуйте файл в README.md.
 -->
 
-<!-- ============ ШАПКА-БАННЕР ============ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B42A0,100:a855f7&height=220&section=header&text=ВАШ%20НИК&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Ваш%20подзаголовок&descSize=24&descAlignY=60" />
-</div>
+<!-- ============ ШАПКА (угловой «slice»-узор) ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:3a0508,60:7a0c14,100:c1121f&height=260&section=header&text=ВАШ%20НИК&fontSize=72&fontColor=ffffff&fontAlign=30&fontAlignY=38&desc=Ваш%20подзаголовок&descSize=22&descAlign=30&descAlignY=58" />
 
-<!-- ============ АНИМИРОВАННЫЙ ТЕКСТ ============ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Первая+строка;Вторая+строка;Третья+строка" alt="Typing SVG" />
-</div>
+<!-- ============ КОНТАКТЫ (плоские значки, слева) ============ -->
+<p align="left">
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-@username-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a1a" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-your@email.com-c1121f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
+  <a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/Сайт-название-c1121f?style=flat-square&logo=githubpages&logoColor=white&labelColor=1a1a1a" /></a>
+</p>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c1121f,100:0d1117&height=3&section=header" />
 
-<!-- ============ КОНТАКТЫ ============ -->
-<div align="center">
-  <a href="https://t.me/USERNAME">
-    <img src="https://img.shields.io/badge/TELEGRAM-@username-a855f7?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/EMAIL-your@email.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://USERNAME.github.io">
-    <img src="https://img.shields.io/badge/САЙТ-название-a855f7?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</div>
+<!-- ============ «ТЕРМИНАЛ» ВМЕСТО СПИСКА «ОБО МНЕ» ============ -->
+```bash
+~ $ whoami
+  ваше имя или ник
 
----
+~ $ cat about.txt
+  > Текст про учёбу или работу
+  > Текст про увлечения
+  > Текст про то, что сейчас изучаете
 
-## 🎓 Обо мне
+~ $ echo $GOAL
+  Текст про цель
+```
 
-- 💖 Текст про учёбу или работу
-- 💻 Текст про увлечения
-- 🌱 Текст про то, что сейчас изучаете
-- 🎯 Текст про цель
+<!-- ============ ДВЕ КОЛОНКИ: ЧЕМ ЗАНИМАЮСЬ / СТЕК ============ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+### ⚡ Сейчас в работе
 
-## 🛠️ Мой стек
+- 🔴 Проект или задача №1
+- 🔴 Проект или задача №2
+- 🔴 Что изучаю сейчас
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
-</div>
+    </td>
+    <td width="50%" valign="top">
+
+### 🧰 Стек
+
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+    </td>
+  </tr>
+</table>
 
 <!--
-  Другие иконки добавляются через запятую: git,github,vscode,react,ts,nodejs,figma,linux
+  Иконки добавляются через запятую: react,ts,nodejs,figma,docker,sqlite
   Полный список: https://skillicons.dev
 -->
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c1121f,100:0d1117&height=3&section=header" />
 
-## 👀 Мои посетители
+<!-- ============ СТАТИСТИКА ============ -->
+### 📊 Статистика
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=ПРОСМОТРЫ&color=a855f7&style=for-the-badge" />
-</div>
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=0d1117&border=3a0508&ring=c1121f&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=bdbdbd&dates=8b949e" />
+</p>
 
----
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508&count_private=true&include_all_commits=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut-vertical&theme=transparent&title_color=ff3b3b&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508&langs_count=6" />
+    </td>
+  </tr>
+</table>
 
-## 📈 GitHub Stats & Metrics
+<details>
+  <summary><b>📈 График активности (нажмите, чтобы открыть)</b></summary>
+  <br>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=ff3b3b&line=c1121f&point=ffffff&area=true&area_color=c1121f&hide_border=true&custom_title=Activity" />
+</details>
 
-<!-- ГРАФИК АКТИВНОСТИ -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true&custom_title=Contribution%20Graph" />
-</div>
+<!-- ============ ЗАКРЕПЛЁННЫЕ ПРОЕКТЫ (по желанию) ============ -->
+### 🗂️ Проекты
 
-<br>
+<p>
+  <a href="https://github.com/USERNAME/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
+  <a href="https://github.com/USERNAME/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
+</p>
 
-<!-- СТАТИСТИКА + ЯЗЫКИ -->
-<div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&border_color=a855f7&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117&border_color=a855f7&langs_count=8" />
-</div>
+<!-- ============ ДЕВИЗ ============ -->
+> *Ваш девиз или цитата*
 
-<br>
+<!-- ============ ПОДВАЛ: счётчик + угловой узор ============ -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Просмотры&color=c1121f&style=flat-square" />
+</p>
 
-<!-- СЕРИЯ КОММИТОВ (STREAK) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=0d1117&border=a855f7&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=false" />
-</div>
-
-<br>
-
-<!-- ТРОФЕИ (по желанию, можно удалить) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
-## 🔥 Недавние проекты (по желанию)
-
-<div align="center">
-  <a href="https://github.com/USERNAME/REPO1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&border_color=a855f7" />
-  </a>
-  <a href="https://github.com/USERNAME/REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=transparent&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&border_color=a855f7" />
-  </a>
-</div>
-
----
-
-<!-- ============ ЦИТАТА / ДЕВИЗ ============ -->
-<div align="center">
-  <h2><i>Ваш девиз или цитата</i></h2>
-</div>
-
-<!-- ============ ПОДВАЛ ============ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6B42A0&height=120&section=footer" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:c1121f,100:3a0508&height=120&section=footer" />
