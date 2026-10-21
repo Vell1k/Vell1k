@@ -24,9 +24,9 @@
   Velilla Yagyaev
 
 ~ $ cat about.txt
-  > Hey. I'm a second-year student of Applied Information Science at СIPU.
-  > I'm a beginner programmer and developer. I have some experience creating websites, bots, and games.
-  > At the moment I am studying html, css and js to improve my skills.
+  > 'Hey. I am a second-year student of Applied Information Science at СIPU.
+  > I am a beginner programmer and developer. I have some experience creating websites, bots, and games.
+  > At the moment I am studying html, css and js to improve my skills.'
 
 
 <!-- ============ ДВЕ КОЛОНКИ: ЧЕМ ЗАНИМАЮСЬ / СТЕК ============ -->
