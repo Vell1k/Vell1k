@@ -52,10 +52,6 @@
   </tr>
 </table>
 
-<!--
-  Иконки добавляются через запятую: react,ts,nodejs,figma,docker,sqlite
-  Полный список: https://skillicons.dev
--->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c1121f,100:0d1117&height=3&section=header" />
 
@@ -83,12 +79,12 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vell1k&bg_color=0d1117&color=ff3b3b&line=c1121f&point=ffffff&area=true&area_color=c1121f&hide_border=true&custom_title=Activity" />
 </details>
 
-<!-- ============ ЗАКРЕПЛЁННЫЕ ПРОЕКТЫ (по желанию) ============ -->
+<!-- ============ ЗАКРЕПЛЁННЫЕ ПРОЕКТЫ ============ -->
 ### 🗂️ Проекты
 
 <p>
-  <a href="https://github.com/Vell1k/REPO1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vell1k&repo=REPO1&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
-  <a href="https://github.com/Vell1k/REPO2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vell1k&repo=REPO2&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
+  <a href="https://github.com/Vell1k/Aip_Rep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vell1k&repo=REPO1&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
+  <a href="https://github.com/Vell1k/My_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vell1k&repo=REPO2&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
 </p>
 
 <!-- ============ ДЕВИЗ ============ -->
@@ -99,4 +95,4 @@
   <img src="https://komarev.com/ghpvc/?username=Vell1k&label=Views&color=c1121f&style=flat-square" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:c1121f,100:3a0508&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c1121f,100:0a0a0a&height=120&section=footer" />
