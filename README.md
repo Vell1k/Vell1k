@@ -6,12 +6,13 @@
   4. Перед загрузкой переименуйте файл в README.md.
 -->
 
+
 <!-- ============ ШАПКА (угловой «slice»-узор) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:8a0e18,70:0a0a0a,100:8a0e18&height=260&section=header&text=Vellik&fontSize=130&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=At%20your%20service&descSize=45&descAlign=50&descAlignY=85&fontFamily=Impact" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:8a0e18,70:0a0a0a,100:8a0e18&height=260&section=header&text=Vell1k&fontSize=130&fontColor=ffffff&fontAlign=50&fontAlignY=55&desc=At%20your%20service&descSize=45&descAlign=50&descAlignY=85&fontFamily=Impact" />
 
 <!-- ============ КОНТАКТЫ (плоские значки, слева) ============ -->
 <p align="left">
-  <a href="https://t.me/Vesselvul"><img src="https://img.shields.io/badge/Telegram-@Vesselvul-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a1a" /></a>
+  <a href="https://t.me/Vesselvul"><img src="https://img.shields.io/badge/Telegram-@Vesselvul-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=30:8a0e18" /></a>
   <a href="mailto:velilla.yagyaev@gmail.com"><img src="https://img.shields.io/badge/Email-your@email.com-c1121f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
   <a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/Сайт-название-c1121f?style=flat-square&logo=githubpages&logoColor=white&labelColor=1a1a1a" /></a>
 </p>
