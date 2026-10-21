@@ -99,4 +99,4 @@
   <img src="https://komarev.com/ghpvc/?username=Vell1k&label=Просмотры&color=c1121f&style=flat-square" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:c1121f,100:3a0508&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:c1121f,100:3a0508&height=120&section=footer" /> ```
