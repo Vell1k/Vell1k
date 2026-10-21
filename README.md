@@ -7,7 +7,7 @@
 -->
 
 <!-- ============ ШАПКА (угловой «slice»-узор) ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:3a0508,60:7a0c14,100:c1121f&height=260&section=header&text=Vell1k%20&fontSize=90&fontColor=ffffff&fontAlign=30&fontAlignY=38&fontFamily=Georgia&desc=At%20your%20service&descSize=22&descAlign=30&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:1a0203,60:4a070c,100:6b0a12&height=260&section=header&text=Vell1k&fontSize=90&fontColor=ffffff&fontAlign=30&fontAlignY=38&desc=At%20your%20service&descSize=70&descAlign=85&descAlignY=52&fontFamily=Georgia" />
 
 <!-- ============ КОНТАКТЫ (плоские значки, слева) ============ -->
 <p align="left">
