@@ -1,9 +1,9 @@
 <!--
   ШАБЛОН GITHUB-ПРОФИЛЯ: тёмно-красная тема, угловой баннер
   1. Замените USERNAME на свой ник на GitHub (Ctrl+H → заменить всё).
-  2. Акцентный цвет: c1121f. Тёмный оттенок: 3a0508. Меняются заменой по всему файлу.
-  3. Репозиторий должен называться так же, как ник: USERNAME/USERNAME.
-  4. Перед загрузкой переименуйте файл в README.md.
+  2. Акцентный цвет: c1121f. Тёмный оттенок: 3a0508.
+  3. Репозиторий должен называться так же, как ник: Vell1k/Vell1k.
+  4. Перед загрузкой файл должен называться README.md.
 -->
 
 <!-- ============ ШАПКА (угловой «slice»-узор) ============ -->
@@ -13,7 +13,7 @@
 <p align="left">
   <a href="https://t.me/Vesselvul"><img src="https://img.shields.io/badge/Telegram-@Vesselvul-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a1a" /></a>
   <a href="mailto:velilla.yagyaev@gmail.com"><img src="https://img.shields.io/badge/velilla.yagyaev@gmail.com-c1121f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
-  <a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/ROCK-c1121f?style=flat-square&logo=githubpages&logoColor=white&labelColor=1a1a1a" /></a>
+  <a href="https://Vell1k.github.io"><img src="https://img.shields.io/badge/ROCK-c1121f?style=flat-square&logo=githubpages&logoColor=white&labelColor=1a1a1a" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c1121f,100:0d1117&height=3&section=header" />
@@ -24,9 +24,9 @@
   Velilla Yagyaev
 
 ~ $ cat about.txt
-  > 'Hey. I am a second-year student of Applied Information Science at СIPU.'
-  > 'I am a beginner programmer and developer. I have some experience creating websites, bots, and games.'
-  > 'At the moment I am studying html, css and js to improve my skills.'
+  > Hey. I am a second-year student of Applied Information Science at СIPU.
+  > I am a beginner programmer and developer. I have some experience creating websites, bots, and games.
+  > At the moment I am studying html, css and js to improve my skills.
 
 
 <!-- ============ ДВЕ КОЛОНКИ: ЧЕМ ЗАНИМАЮСЬ / СТЕК ============ -->
