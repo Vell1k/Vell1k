@@ -11,7 +11,7 @@
 
 <!-- ============ КОНТАКТЫ (плоские значки, слева) ============ -->
 <p align="left">
-  <a href="https://t.me/Vesselvul"><img src="https://img.shields.io/badge/Telegram-@Vesselvul-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=30:8a0e18" /></a>
+  <a href="https://t.me/Vesselvul"><img src="https://img.shields.io/badge/Telegram-@Vesselvul-c1121f?style=flat-square&logo=telegram&logoColor=white&labelColor=1a1a1a" /></a>
   <a href="mailto:velilla.yagyaev@gmail.com"><img src="https://img.shields.io/badge/velilla.yagyaev@gmail.com-c1121f?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a" /></a>
   <a href="https://USERNAME.github.io"><img src="https://img.shields.io/badge/ROCK-c1121f?style=flat-square&logo=githubpages&logoColor=white&labelColor=1a1a1a" /></a>
 </p>
@@ -34,7 +34,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### ⚡ Сейчас в работе
+### ⚡ Сurrently at work
 
 - 🔴 Rock_project
 - 🔴 Aip-labs
@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top">
 
-### 🧰 Стек
+### 🧰 Stack
 
 <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python&theme=dark" />
 <br><br>
@@ -60,7 +60,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:c1121f,100:0d1117&height=3&section=header" />
 
 <!-- ============ СТАТИСТИКА ============ -->
-### 📊 Статистика
+### 📊 Statistics
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=Vell1k&theme=dark&background=0d1117&border=3a0508&ring=c1121f&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=e6e6e6&sideNums=e6e6e6&sideLabels=bdbdbd&dates=8b949e" />
