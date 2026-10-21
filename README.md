@@ -39,7 +39,7 @@
 - 🔴 Rock_project
 - 🔴 Aip-labs
 
-    </td>
+</td>
     <td width="50%" valign="top">
 
 ### 🧰 Stack
@@ -48,7 +48,7 @@
 <br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,godot&theme=dark" />
 
-    </td>
+</td>
   </tr>
 </table>
 
@@ -70,10 +70,10 @@
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Vell1k&show_icons=true&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508&count_private=true&include_all_commits=true" />
-    </td>
+</td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vell1k&layout=donut-vertical&theme=transparent&title_color=ff3b3b&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508&langs_count=6" />
-    </td>
+</td>
   </tr>
 </table>
 
