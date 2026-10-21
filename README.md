@@ -79,7 +79,7 @@
 </p>
 
 <!-- ============ ЗАКРЕПЛЁННЫЕ ПРОЕКТЫ ============ -->
-### 🗂️ Проекты
+### 🗂️ PROJECTS
 
 <p>
   <a href="https://github.com/Vell1k/Aip_Reposet.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vell1k&repo=Aip_Reposet&theme=transparent&title_color=ff3b3b&icon_color=c1121f&text_color=e6e6e6&bg_color=0d1117&border_color=3a0508" /></a>
